@@ -1,0 +1,98 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "STEmoticonAttachment"
+provides-nominal:
+- "CX13feuGEAclnmAGl20STEmoticonAttachment"
+provides-member:
+- ["CX13feuGEAclnmAGl20STEmoticonAttachment", ""]
+provides-dynamic-lookup:
+- "chs"
+depends-top-level:
+- "STEmoticonAttachment"
+- "String"
+- "NSTextAttachment"
+depends-member:
+- ["Ps9AnyObject", "chs"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", ""]
+- ["Ps11CVarArgType", "chs"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", ""]
+- ["Ps28CustomDebugStringConvertible", "chs"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "chs"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "chs"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "chs"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", ""]
+- ["PSo8NSCoding", "chs"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "chs"]
+- ["CSo8NSObject", "init"]
+- ["PSo16NSObjectProtocol", "chs"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", ""]
+- ["CSo16NSTextAttachment", "String"]
+- ["CSo16NSTextAttachment", "chs"]
+- ["CSo16NSTextAttachment", "init"]
+- ["CSo16NSTextAttachment", ""]
+- ["PSo25NSTextAttachmentContainer", "chs"]
+- ["PSo25NSTextAttachmentContainer", "init"]
+- ["PSo25NSTextAttachmentContainer", ""]
+- ["CX13feuGEAclnmAGl20STEmoticonAttachment", "String"]
+- ["CX13feuGEAclnmAGl20STEmoticonAttachment", "chs"]
+- ["CX13feuGEAclnmAGl20STEmoticonAttachment", "deinit"]
+- ["CX13feuGEAclnmAGl20STEmoticonAttachment", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "CSo16NSTextAttachment"
+- "PSo25NSTextAttachmentContainer"
+- "CX13feuGEAclnmAGl20STEmoticonAttachment"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPLayerExtras.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPDecayAnimation.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPCustomAnimation.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPBasicAnimation.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPAnimator.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPPropertyAnimation.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPSpringAnimation.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPAnimationExtras.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPGeometry.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPAnimationEvent.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPAnimationTracer.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPAnimation.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPAnimatableProperty.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPDefines.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POP.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/pop-umbrella.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Modules/module.modulemap"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/YYModel/YYModel.framework/Headers/YYModel.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/YYModel/YYModel.framework/Headers/YYClassInfo.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/YYModel/YYModel.framework/Headers/NSObject+YYModel.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/YYModel/YYModel.framework/Headers/YYModel-umbrella.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/YYModel/YYModel.framework/Modules/module.modulemap"
+interface-hash: "10415df775e1e4e9a6665fe871b8addd"

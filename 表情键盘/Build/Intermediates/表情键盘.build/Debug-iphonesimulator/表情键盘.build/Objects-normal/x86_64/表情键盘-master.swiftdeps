@@ -1,0 +1,15 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "b7b8b2dd8ddb5b8166caeee18587b31b"
+build_time: [545466965, 689230000]
+inputs:
+  "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/\u8868\u60C5\u952E\u76D8/ViewController.swift": [544763783, 0]
+  "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/\u8868\u60C5\u952E\u76D8/AppDelegate.swift": [544672094, 0]
+  "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/\u8868\u60C5\u952E\u76D8/Emoticon/View/STEmoticonToolbar.swift": [545214498, 0]
+  "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/\u8868\u60C5\u952E\u76D8/Emoticon/View/STEmoticonLayout.swift": [544688253, 0]
+  "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/\u8868\u60C5\u952E\u76D8/Emoticon/View/STEmoticonTipView.swift": [545194153, 0]
+  "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/\u8868\u60C5\u952E\u76D8/Emoticon/View/STEmoticonCell.swift": [545194900, 0]
+  "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/\u8868\u60C5\u952E\u76D8/Emoticon/STEmoticonManager.swift": [545211799, 0]
+  "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/\u8868\u60C5\u952E\u76D8/Emoticon/View/STEmoticonInputView.swift": [545281430, 0]
+  "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/\u8868\u60C5\u952E\u76D8/Emoticon/Model/STEmoticon.swift": [545210187, 0]
+  "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/\u8868\u60C5\u952E\u76D8/Emoticon/Model/STEmoticonAttachment.swift": [544763391, 0]
+  "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/\u8868\u60C5\u952E\u76D8/Emoticon/Model/STEmoticonPackage.swift": [544692148, 0]

@@ -1,0 +1,499 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "STEmoticonPackage"
+provides-nominal:
+- "CX13feuGEAclnmAGl17STEmoticonPackage"
+provides-member:
+- ["CX13feuGEAclnmAGl17STEmoticonPackage", ""]
+provides-dynamic-lookup:
+- "directory"
+- "groupName"
+- "bgImageName"
+- "emoticon"
+- "emoticons"
+- "numberOfPages"
+- "description"
+depends-top-level:
+- !private "NSBundle"
+- !private "*"
+- !private "+="
+- "STEmoticonPackage"
+- "STEmoticon"
+- "Int"
+- "NSObject"
+- !private "-"
+- !private "NSRange"
+- !private "+"
+- !private ">"
+- !private "/"
+- "String"
+- !private "StringLiteralType"
+- !private "NSArray"
+depends-member:
+- !private ["Ps9AnyObject", "NSArray"]
+- !private ["Ps9AnyObject", "NSBundle"]
+- !private ["Ps9AnyObject", "NSRange"]
+- ["Ps9AnyObject", "STEmoticon"]
+- ["Ps9AnyObject", "bgImageName"]
+- ["Ps9AnyObject", "description"]
+- ["Ps9AnyObject", "directory"]
+- ["Ps9AnyObject", "emoticon"]
+- ["Ps9AnyObject", "emoticons"]
+- ["Ps9AnyObject", "emoticons.storage"]
+- ["Ps9AnyObject", "groupName"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "mainBundle"]
+- ["Ps9AnyObject", "numberOfPages"]
+- !private ["Ps9AnyObject", "pathForResource"]
+- !private ["Ps9AnyObject", "subarrayWithRange"]
+- !private ["Ps9AnyObject", "yy_modelArrayWithClass"]
+- !private ["Ps9AnyObject", "yy_modelDescription"]
+- ["Ps9AnyObject", ""]
+- ["Sa", "Generator"]
+- ["Sa", "Index"]
+- ["Sa", "SubSequence"]
+- !private ["Sa", "_Buffer"]
+- ["Sa", "_Element"]
+- !private ["Sa", "count"]
+- !private ["Sa", "deinit"]
+- ["Sa", "init"]
+- ["Ps23ArrayLiteralConvertible", "Generator"]
+- ["Ps23ArrayLiteralConvertible", "Index"]
+- ["Ps23ArrayLiteralConvertible", "SubSequence"]
+- !private ["Ps23ArrayLiteralConvertible", "_Buffer"]
+- ["Ps23ArrayLiteralConvertible", "_Element"]
+- !private ["Ps23ArrayLiteralConvertible", "count"]
+- ["Ps23ArrayLiteralConvertible", "init"]
+- !private ["Ps23ArrayLiteralConvertible", "subarrayWithRange"]
+- !private ["Ps23ArrayLiteralConvertible", "yy_modelArrayWithClass"]
+- ["Vs10ArraySlice", "Generator"]
+- ["Vs10ArraySlice", "Index"]
+- ["Ps22BidirectionalIndexType", "Distance"]
+- ["Ps22BidirectionalIndexType", "IntegerLiteralType"]
+- ["Ps21BitwiseOperationsType", "Distance"]
+- ["Ps21BitwiseOperationsType", "IntegerLiteralType"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Ps25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps11BooleanType", "_getBuiltinLogicValue"]
+- ["Ps11CVarArgType", "Distance"]
+- ["Ps11CVarArgType", "IntegerLiteralType"]
+- !private ["Ps11CVarArgType", "NSArray"]
+- !private ["Ps11CVarArgType", "NSBundle"]
+- !private ["Ps11CVarArgType", "NSRange"]
+- ["Ps11CVarArgType", "STEmoticon"]
+- ["Ps11CVarArgType", "bgImageName"]
+- ["Ps11CVarArgType", "description"]
+- ["Ps11CVarArgType", "directory"]
+- ["Ps11CVarArgType", "emoticon"]
+- ["Ps11CVarArgType", "emoticons"]
+- ["Ps11CVarArgType", "emoticons.storage"]
+- ["Ps11CVarArgType", "groupName"]
+- ["Ps11CVarArgType", "init"]
+- !private ["Ps11CVarArgType", "mainBundle"]
+- ["Ps11CVarArgType", "numberOfPages"]
+- !private ["Ps11CVarArgType", "pathForResource"]
+- !private ["Ps11CVarArgType", "subarrayWithRange"]
+- !private ["Ps11CVarArgType", "yy_modelArrayWithClass"]
+- !private ["Ps11CVarArgType", "yy_modelDescription"]
+- ["Ps11CVarArgType", ""]
+- ["Ps14CollectionType", "Generator"]
+- ["Ps14CollectionType", "Index"]
+- ["Ps14CollectionType", "SubSequence"]
+- !private ["Ps14CollectionType", "_Buffer"]
+- ["Ps14CollectionType", "_Element"]
+- !private ["Ps14CollectionType", "count"]
+- ["Ps14CollectionType", "init"]
+- ["Ps10Comparable", "Distance"]
+- ["Ps10Comparable", "IntegerLiteralType"]
+- ["Ps28CustomDebugStringConvertible", "Generator"]
+- ["Ps28CustomDebugStringConvertible", "Index"]
+- !private ["Ps28CustomDebugStringConvertible", "NSArray"]
+- !private ["Ps28CustomDebugStringConvertible", "NSBundle"]
+- !private ["Ps28CustomDebugStringConvertible", "NSRange"]
+- ["Ps28CustomDebugStringConvertible", "STEmoticon"]
+- ["Ps28CustomDebugStringConvertible", "Some"]
+- ["Ps28CustomDebugStringConvertible", "SubSequence"]
+- !private ["Ps28CustomDebugStringConvertible", "_Buffer"]
+- ["Ps28CustomDebugStringConvertible", "_Element"]
+- ["Ps28CustomDebugStringConvertible", "bgImageName"]
+- !private ["Ps28CustomDebugStringConvertible", "count"]
+- ["Ps28CustomDebugStringConvertible", "description"]
+- ["Ps28CustomDebugStringConvertible", "directory"]
+- ["Ps28CustomDebugStringConvertible", "emoticon"]
+- ["Ps28CustomDebugStringConvertible", "emoticons"]
+- ["Ps28CustomDebugStringConvertible", "emoticons.storage"]
+- ["Ps28CustomDebugStringConvertible", "groupName"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "mainBundle"]
+- ["Ps28CustomDebugStringConvertible", "numberOfPages"]
+- !private ["Ps28CustomDebugStringConvertible", "pathForResource"]
+- !private ["Ps28CustomDebugStringConvertible", "subarrayWithRange"]
+- !private ["Ps28CustomDebugStringConvertible", "yy_modelArrayWithClass"]
+- !private ["Ps28CustomDebugStringConvertible", "yy_modelDescription"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "Distance"]
+- ["Ps23CustomStringConvertible", "Generator"]
+- ["Ps23CustomStringConvertible", "Index"]
+- ["Ps23CustomStringConvertible", "IntegerLiteralType"]
+- !private ["Ps23CustomStringConvertible", "NSArray"]
+- !private ["Ps23CustomStringConvertible", "NSBundle"]
+- !private ["Ps23CustomStringConvertible", "NSRange"]
+- ["Ps23CustomStringConvertible", "STEmoticon"]
+- ["Ps23CustomStringConvertible", "SubSequence"]
+- !private ["Ps23CustomStringConvertible", "_Buffer"]
+- ["Ps23CustomStringConvertible", "_Element"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps23CustomStringConvertible", "bgImageName"]
+- !private ["Ps23CustomStringConvertible", "count"]
+- ["Ps23CustomStringConvertible", "description"]
+- ["Ps23CustomStringConvertible", "directory"]
+- ["Ps23CustomStringConvertible", "emoticon"]
+- ["Ps23CustomStringConvertible", "emoticons"]
+- ["Ps23CustomStringConvertible", "emoticons.storage"]
+- ["Ps23CustomStringConvertible", "groupName"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "mainBundle"]
+- ["Ps23CustomStringConvertible", "numberOfPages"]
+- !private ["Ps23CustomStringConvertible", "pathForResource"]
+- !private ["Ps23CustomStringConvertible", "subarrayWithRange"]
+- !private ["Ps23CustomStringConvertible", "yy_modelArrayWithClass"]
+- !private ["Ps23CustomStringConvertible", "yy_modelDescription"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "Distance"]
+- ["Ps9Equatable", "IntegerLiteralType"]
+- !private ["Ps9Equatable", "NSArray"]
+- !private ["Ps9Equatable", "NSBundle"]
+- !private ["Ps9Equatable", "NSRange"]
+- ["Ps9Equatable", "STEmoticon"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- ["Ps9Equatable", "bgImageName"]
+- ["Ps9Equatable", "description"]
+- ["Ps9Equatable", "directory"]
+- ["Ps9Equatable", "emoticon"]
+- ["Ps9Equatable", "emoticons"]
+- ["Ps9Equatable", "emoticons.storage"]
+- ["Ps9Equatable", "groupName"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "mainBundle"]
+- ["Ps9Equatable", "numberOfPages"]
+- !private ["Ps9Equatable", "pathForResource"]
+- !private ["Ps9Equatable", "subarrayWithRange"]
+- !private ["Ps9Equatable", "yy_modelArrayWithClass"]
+- !private ["Ps9Equatable", "yy_modelDescription"]
+- ["Ps9Equatable", ""]
+- ["Ps16ForwardIndexType", "Distance"]
+- ["Ps16ForwardIndexType", "IntegerLiteralType"]
+- ["Ps13GeneratorType", "Element"]
+- ["Ps8Hashable", "Distance"]
+- ["Ps8Hashable", "IntegerLiteralType"]
+- !private ["Ps8Hashable", "NSArray"]
+- !private ["Ps8Hashable", "NSBundle"]
+- !private ["Ps8Hashable", "NSRange"]
+- ["Ps8Hashable", "STEmoticon"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- ["Ps8Hashable", "bgImageName"]
+- ["Ps8Hashable", "description"]
+- ["Ps8Hashable", "directory"]
+- ["Ps8Hashable", "emoticon"]
+- ["Ps8Hashable", "emoticons"]
+- ["Ps8Hashable", "emoticons.storage"]
+- ["Ps8Hashable", "groupName"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "mainBundle"]
+- ["Ps8Hashable", "numberOfPages"]
+- !private ["Ps8Hashable", "pathForResource"]
+- !private ["Ps8Hashable", "subarrayWithRange"]
+- !private ["Ps8Hashable", "yy_modelArrayWithClass"]
+- !private ["Ps8Hashable", "yy_modelDescription"]
+- ["Ps8Hashable", ""]
+- ["Ps9Indexable", "Generator"]
+- ["Ps9Indexable", "Index"]
+- ["Ps9Indexable", "SubSequence"]
+- !private ["Ps9Indexable", "_Buffer"]
+- ["Ps9Indexable", "_Element"]
+- !private ["Ps9Indexable", "count"]
+- ["Ps9Indexable", "init"]
+- ["Vs17IndexingGenerator", "Element"]
+- ["Si", "Distance"]
+- ["Si", "IntegerLiteralType"]
+- ["Ps21IntegerArithmeticType", "Distance"]
+- ["Ps21IntegerArithmeticType", "IntegerLiteralType"]
+- ["Ps25IntegerLiteralConvertible", "Distance"]
+- ["Ps25IntegerLiteralConvertible", "IntegerLiteralType"]
+- ["Ps11IntegerType", "Distance"]
+- ["Ps11IntegerType", "IntegerLiteralType"]
+- ["Ps14MirrorPathType", "Distance"]
+- ["Ps14MirrorPathType", "IntegerLiteralType"]
+- ["Ps21MutableCollectionType", "Generator"]
+- ["Ps21MutableCollectionType", "Index"]
+- ["Ps21MutableCollectionType", "SubSequence"]
+- !private ["Ps21MutableCollectionType", "_Buffer"]
+- ["Ps21MutableCollectionType", "_Element"]
+- !private ["Ps21MutableCollectionType", "count"]
+- ["Ps21MutableCollectionType", "init"]
+- ["Ps16MutableIndexable", "Generator"]
+- ["Ps16MutableIndexable", "Index"]
+- ["Ps16MutableIndexable", "SubSequence"]
+- !private ["Ps16MutableIndexable", "_Buffer"]
+- ["Ps16MutableIndexable", "_Element"]
+- !private ["Ps16MutableIndexable", "count"]
+- ["Ps16MutableIndexable", "init"]
+- ["Ps16MutableSliceable", "Generator"]
+- ["Ps16MutableSliceable", "Index"]
+- ["Ps16MutableSliceable", "SubSequence"]
+- !private ["Ps16MutableSliceable", "_Buffer"]
+- ["Ps16MutableSliceable", "_Element"]
+- !private ["Ps16MutableSliceable", "count"]
+- ["Ps16MutableSliceable", "init"]
+- !private ["CSo7NSArray", "init"]
+- !private ["CSo7NSArray", "subarrayWithRange"]
+- !private ["CSo7NSArray", "yy_modelArrayWithClass"]
+- !private ["CSo8NSBundle", "init"]
+- !private ["CSo8NSBundle", "mainBundle"]
+- !private ["CSo8NSBundle", "pathForResource"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "subarrayWithRange"]
+- !private ["PSo8NSCoding", "yy_modelArrayWithClass"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "subarrayWithRange"]
+- !private ["PSo9NSCopying", "yy_modelArrayWithClass"]
+- !private ["PSo17NSFastEnumeration", "init"]
+- !private ["PSo17NSFastEnumeration", "subarrayWithRange"]
+- !private ["PSo17NSFastEnumeration", "yy_modelArrayWithClass"]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["PSo16NSMutableCopying", "subarrayWithRange"]
+- !private ["PSo16NSMutableCopying", "yy_modelArrayWithClass"]
+- ["CSo8NSObject", "Int"]
+- !private ["CSo8NSObject", "NSArray"]
+- !private ["CSo8NSObject", "NSBundle"]
+- !private ["CSo8NSObject", "NSRange"]
+- ["CSo8NSObject", "STEmoticon"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "bgImageName"]
+- ["CSo8NSObject", "description"]
+- ["CSo8NSObject", "directory"]
+- ["CSo8NSObject", "emoticon"]
+- ["CSo8NSObject", "emoticons"]
+- ["CSo8NSObject", "emoticons.storage"]
+- ["CSo8NSObject", "groupName"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "mainBundle"]
+- ["CSo8NSObject", "numberOfPages"]
+- !private ["CSo8NSObject", "pathForResource"]
+- !private ["CSo8NSObject", "subarrayWithRange"]
+- !private ["CSo8NSObject", "yy_modelArrayWithClass"]
+- !private ["CSo8NSObject", "yy_modelDescription"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "NSArray"]
+- !private ["PSo16NSObjectProtocol", "NSBundle"]
+- !private ["PSo16NSObjectProtocol", "NSRange"]
+- ["PSo16NSObjectProtocol", "STEmoticon"]
+- ["PSo16NSObjectProtocol", "bgImageName"]
+- ["PSo16NSObjectProtocol", "description"]
+- ["PSo16NSObjectProtocol", "directory"]
+- ["PSo16NSObjectProtocol", "emoticon"]
+- ["PSo16NSObjectProtocol", "emoticons"]
+- ["PSo16NSObjectProtocol", "emoticons.storage"]
+- ["PSo16NSObjectProtocol", "groupName"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "mainBundle"]
+- ["PSo16NSObjectProtocol", "numberOfPages"]
+- !private ["PSo16NSObjectProtocol", "pathForResource"]
+- !private ["PSo16NSObjectProtocol", "subarrayWithRange"]
+- !private ["PSo16NSObjectProtocol", "yy_modelArrayWithClass"]
+- !private ["PSo16NSObjectProtocol", "yy_modelDescription"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["PSo14NSSecureCoding", "subarrayWithRange"]
+- !private ["PSo14NSSecureCoding", "yy_modelArrayWithClass"]
+- ["Ps21NilLiteralConvertible", "Some"]
+- ["Sq", "Some"]
+- !private ["Sq", "deinit"]
+- ["Ps21RandomAccessIndexType", "Distance"]
+- ["Ps21RandomAccessIndexType", "IntegerLiteralType"]
+- ["Ps30RangeReplaceableCollectionType", "Generator"]
+- ["Ps30RangeReplaceableCollectionType", "Index"]
+- ["Ps30RangeReplaceableCollectionType", "SubSequence"]
+- !private ["Ps30RangeReplaceableCollectionType", "_Buffer"]
+- ["Ps30RangeReplaceableCollectionType", "_Element"]
+- !private ["Ps30RangeReplaceableCollectionType", "count"]
+- ["Ps30RangeReplaceableCollectionType", "init"]
+- !private ["CX13feuGEAclnmAGl10STEmoticon", "deinit"]
+- !private ["CX13feuGEAclnmAGl10STEmoticon", "directory"]
+- ["CX13feuGEAclnmAGl17STEmoticonPackage", "Int"]
+- !private ["CX13feuGEAclnmAGl17STEmoticonPackage", "NSArray"]
+- !private ["CX13feuGEAclnmAGl17STEmoticonPackage", "NSBundle"]
+- !private ["CX13feuGEAclnmAGl17STEmoticonPackage", "NSRange"]
+- ["CX13feuGEAclnmAGl17STEmoticonPackage", "STEmoticon"]
+- ["CX13feuGEAclnmAGl17STEmoticonPackage", "String"]
+- ["CX13feuGEAclnmAGl17STEmoticonPackage", "bgImageName"]
+- ["CX13feuGEAclnmAGl17STEmoticonPackage", "deinit"]
+- ["CX13feuGEAclnmAGl17STEmoticonPackage", "description"]
+- ["CX13feuGEAclnmAGl17STEmoticonPackage", "directory"]
+- ["CX13feuGEAclnmAGl17STEmoticonPackage", "emoticon"]
+- ["CX13feuGEAclnmAGl17STEmoticonPackage", "emoticons"]
+- !private ["CX13feuGEAclnmAGl17STEmoticonPackage", "emoticons.storage"]
+- ["CX13feuGEAclnmAGl17STEmoticonPackage", "groupName"]
+- ["CX13feuGEAclnmAGl17STEmoticonPackage", "init"]
+- ["CX13feuGEAclnmAGl17STEmoticonPackage", "numberOfPages"]
+- !private ["CX13feuGEAclnmAGl17STEmoticonPackage", "yy_modelDescription"]
+- ["Ps12SequenceType", "Element"]
+- ["Ps12SequenceType", "Generator"]
+- ["Ps12SequenceType", "Index"]
+- ["Ps12SequenceType", "SubSequence"]
+- !private ["Ps12SequenceType", "_Buffer"]
+- ["Ps12SequenceType", "_Element"]
+- !private ["Ps12SequenceType", "count"]
+- ["Ps12SequenceType", "init"]
+- !private ["Ps12SequenceType", "subarrayWithRange"]
+- !private ["Ps12SequenceType", "yy_modelArrayWithClass"]
+- ["Ps17SignedIntegerType", "Distance"]
+- ["Ps17SignedIntegerType", "IntegerLiteralType"]
+- ["Ps16SignedNumberType", "Distance"]
+- ["Ps16SignedNumberType", "IntegerLiteralType"]
+- ["Ps10Strideable", "Distance"]
+- ["Ps10Strideable", "IntegerLiteralType"]
+- ["Ps10_ArrayType", "Generator"]
+- ["Ps10_ArrayType", "Index"]
+- ["Ps10_ArrayType", "SubSequence"]
+- !private ["Ps10_ArrayType", "_Buffer"]
+- ["Ps10_ArrayType", "_Element"]
+- !private ["Ps10_ArrayType", "count"]
+- ["Ps10_ArrayType", "init"]
+- !private ["Ps33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- ["Ps33_BuiltinIntegerLiteralConvertible", "Distance"]
+- ["Ps33_BuiltinIntegerLiteralConvertible", "IntegerLiteralType"]
+- ["Ps24_DestructorSafeContainer", "Generator"]
+- ["Ps24_DestructorSafeContainer", "Index"]
+- ["Ps24_DestructorSafeContainer", "SubSequence"]
+- !private ["Ps24_DestructorSafeContainer", "_Buffer"]
+- ["Ps24_DestructorSafeContainer", "_Element"]
+- !private ["Ps24_DestructorSafeContainer", "count"]
+- ["Ps24_DestructorSafeContainer", "init"]
+- ["Ps14_Incrementable", "Distance"]
+- ["Ps14_Incrementable", "IntegerLiteralType"]
+- ["Ps22_IntegerArithmeticType", "Distance"]
+- ["Ps22_IntegerArithmeticType", "IntegerLiteralType"]
+- ["Ps12_IntegerType", "Distance"]
+- ["Ps12_IntegerType", "IntegerLiteralType"]
+- !private ["VSC8_NSRange", "init"]
+- ["Ps21_ObjectiveCBridgeable", "Distance"]
+- ["Ps21_ObjectiveCBridgeable", "Generator"]
+- ["Ps21_ObjectiveCBridgeable", "Index"]
+- ["Ps21_ObjectiveCBridgeable", "IntegerLiteralType"]
+- ["Ps21_ObjectiveCBridgeable", "SubSequence"]
+- !private ["Ps21_ObjectiveCBridgeable", "_Buffer"]
+- ["Ps21_ObjectiveCBridgeable", "_Element"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "count"]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+- ["Ps22_RandomAccessAmbiguity", "Distance"]
+- ["Ps22_RandomAccessAmbiguity", "IntegerLiteralType"]
+- ["Ps12_Reflectable", "Distance"]
+- ["Ps12_Reflectable", "Generator"]
+- ["Ps12_Reflectable", "Index"]
+- ["Ps12_Reflectable", "IntegerLiteralType"]
+- ["Ps12_Reflectable", "Some"]
+- ["Ps12_Reflectable", "SubSequence"]
+- !private ["Ps12_Reflectable", "_Buffer"]
+- ["Ps12_Reflectable", "_Element"]
+- !private ["Ps12_Reflectable", "_getBuiltinLogicValue"]
+- !private ["Ps12_Reflectable", "count"]
+- ["Ps12_Reflectable", "init"]
+- !private ["Ps12_Reflectable", "subarrayWithRange"]
+- !private ["Ps12_Reflectable", "yy_modelArrayWithClass"]
+- ["Ps18_SignedIntegerType", "Distance"]
+- ["Ps18_SignedIntegerType", "IntegerLiteralType"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sa"
+- "Ps23ArrayLiteralConvertible"
+- "Vs10ArraySlice"
+- "Ps22BidirectionalIndexType"
+- "Ps21BitwiseOperationsType"
+- !private "Sb"
+- !private "Ps25BooleanLiteralConvertible"
+- !private "Ps11BooleanType"
+- "Ps11CVarArgType"
+- "Ps14CollectionType"
+- "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps16ForwardIndexType"
+- "Ps13GeneratorType"
+- "Ps8Hashable"
+- "Ps9Indexable"
+- "Vs17IndexingGenerator"
+- "Si"
+- "Ps21IntegerArithmeticType"
+- "Ps25IntegerLiteralConvertible"
+- "Ps11IntegerType"
+- "Ps14MirrorPathType"
+- "Ps21MutableCollectionType"
+- "Ps16MutableIndexable"
+- "Ps16MutableSliceable"
+- !private "CSo7NSArray"
+- !private "CSo8NSBundle"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo17NSFastEnumeration"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- "Ps21NilLiteralConvertible"
+- "Sq"
+- "Ps21RandomAccessIndexType"
+- "Ps30RangeReplaceableCollectionType"
+- !private "CX13feuGEAclnmAGl10STEmoticon"
+- "CX13feuGEAclnmAGl17STEmoticonPackage"
+- "Ps12SequenceType"
+- "Ps17SignedIntegerType"
+- "Ps16SignedNumberType"
+- "Ps10Strideable"
+- "Ps10_ArrayType"
+- !private "Ps33_BuiltinBooleanLiteralConvertible"
+- "Ps33_BuiltinIntegerLiteralConvertible"
+- "Ps24_DestructorSafeContainer"
+- "Ps14_Incrementable"
+- "Ps22_IntegerArithmeticType"
+- "Ps12_IntegerType"
+- !private "VSC8_NSRange"
+- "Ps21_ObjectiveCBridgeable"
+- "Ps22_RandomAccessAmbiguity"
+- "Ps12_Reflectable"
+- "Ps18_SignedIntegerType"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPLayerExtras.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPDecayAnimation.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPCustomAnimation.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPBasicAnimation.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPAnimator.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPPropertyAnimation.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPSpringAnimation.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPAnimationExtras.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPGeometry.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPAnimationEvent.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPAnimationTracer.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPAnimation.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPAnimatableProperty.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPDefines.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POP.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/pop-umbrella.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Modules/module.modulemap"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/YYModel/YYModel.framework/Headers/YYModel.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/YYModel/YYModel.framework/Headers/YYClassInfo.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/YYModel/YYModel.framework/Headers/NSObject+YYModel.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/YYModel/YYModel.framework/Headers/YYModel-umbrella.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/YYModel/YYModel.framework/Modules/module.modulemap"
+interface-hash: "3de505ae21b2e58ff2f87e44d39d104b"

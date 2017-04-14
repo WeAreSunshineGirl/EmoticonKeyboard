@@ -1,0 +1,10 @@
+platform :ios, '9.0'
+
+target '表情键盘' do
+
+ use_frameworks!
+
+ pod 'YYModel'
+
+pod 'pop'
+end

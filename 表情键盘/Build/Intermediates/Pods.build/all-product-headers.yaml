@@ -1,0 +1,177 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/Pods_____.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-\u8868\u60C5\u952E\u76D8-umbrella.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Pods/Target Support Files/Pods-\u8868\u60C5\u952E\u76D8/Pods-\u8868\u60C5\u952E\u76D8-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_____-Swift.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/Pods_____.framework/Headers/Pods_____-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/Pods_____.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-\u8868\u60C5\u952E\u76D8.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/YYModel/YYModel.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSObject+YYModel.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Pods/YYModel/YYModel/NSObject+YYModel.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYClassInfo.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Pods/YYModel/YYModel/YYClassInfo.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYModel-Swift.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/YYModel/YYModel.framework/Headers/YYModel-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYModel-umbrella.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Pods/Target Support Files/YYModel/YYModel-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYModel.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Pods/YYModel/YYModel/YYModel.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/YYModel/YYModel.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Intermediates/Pods.build/Debug-iphonesimulator/YYModel.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "POP.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Pods/pop/pop/POP.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPAnimatableProperty.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Pods/pop/pop/POPAnimatableProperty.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPAnimation.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Pods/pop/pop/POPAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPAnimationEvent.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Pods/pop/pop/POPAnimationEvent.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPAnimationExtras.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Pods/pop/pop/POPAnimationExtras.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPAnimationTracer.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Pods/pop/pop/POPAnimationTracer.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPAnimator.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Pods/pop/pop/POPAnimator.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPBasicAnimation.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Pods/pop/pop/POPBasicAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPCustomAnimation.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Pods/pop/pop/POPCustomAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPDecayAnimation.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Pods/pop/pop/POPDecayAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPDefines.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Pods/pop/pop/POPDefines.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPGeometry.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Pods/pop/pop/POPGeometry.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPLayerExtras.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Pods/pop/pop/POPLayerExtras.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPPropertyAnimation.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Pods/pop/pop/POPPropertyAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPSpringAnimation.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Pods/pop/pop/POPSpringAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "pop-Swift.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/pop-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "pop-umbrella.h",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Pods/Target Support Files/pop/pop-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Intermediates/Pods.build/Debug-iphonesimulator/pop.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

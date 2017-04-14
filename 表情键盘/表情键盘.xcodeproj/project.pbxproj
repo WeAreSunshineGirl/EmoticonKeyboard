@@ -1,0 +1,447 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CE0E5EC11EA0A4710020BDD1 /* EmotionIcons.bundle in Resources */ = {isa = PBXBuildFile; fileRef = CE0E5EB31EA0A4710020BDD1 /* EmotionIcons.bundle */; };
+		CE0E5EC21EA0A4710020BDD1 /* STEmoticon.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0E5EB51EA0A4710020BDD1 /* STEmoticon.swift */; };
+		CE0E5EC31EA0A4710020BDD1 /* STEmoticonAttachment.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0E5EB61EA0A4710020BDD1 /* STEmoticonAttachment.swift */; };
+		CE0E5EC41EA0A4710020BDD1 /* STEmoticonPackage.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0E5EB71EA0A4710020BDD1 /* STEmoticonPackage.swift */; };
+		CE0E5EC51EA0A4710020BDD1 /* STEmoticonManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0E5EB81EA0A4710020BDD1 /* STEmoticonManager.swift */; };
+		CE0E5EC61EA0A4710020BDD1 /* STEmoticonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0E5EBA1EA0A4710020BDD1 /* STEmoticonCell.swift */; };
+		CE0E5EC71EA0A4710020BDD1 /* STEmoticonCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE0E5EBB1EA0A4710020BDD1 /* STEmoticonCell.xib */; };
+		CE0E5EC81EA0A4710020BDD1 /* STEmoticonInputView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0E5EBC1EA0A4710020BDD1 /* STEmoticonInputView.swift */; };
+		CE0E5EC91EA0A4710020BDD1 /* STEmoticonInputView.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE0E5EBD1EA0A4710020BDD1 /* STEmoticonInputView.xib */; };
+		CE0E5ECA1EA0A4710020BDD1 /* STEmoticonLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0E5EBE1EA0A4710020BDD1 /* STEmoticonLayout.swift */; };
+		CE0E5ECB1EA0A4710020BDD1 /* STEmoticonTipView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0E5EBF1EA0A4710020BDD1 /* STEmoticonTipView.swift */; };
+		CE0E5ECC1EA0A4710020BDD1 /* STEmoticonToolbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0E5EC01EA0A4710020BDD1 /* STEmoticonToolbar.swift */; };
+		CE3785711E94845E00C64FFD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3785701E94845E00C64FFD /* AppDelegate.swift */; };
+		CE3785731E94845E00C64FFD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3785721E94845E00C64FFD /* ViewController.swift */; };
+		CE3785761E94845E00C64FFD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE3785741E94845E00C64FFD /* Main.storyboard */; };
+		CE3785781E94845E00C64FFD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE3785771E94845E00C64FFD /* Assets.xcassets */; };
+		CE37857B1E94845E00C64FFD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE3785791E94845E00C64FFD /* LaunchScreen.storyboard */; };
+		EBA04E1C3D246B7CB45982B1 /* Pods_____.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9F5A1ACF315C8EDEAC7F5841 /* Pods_____.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		9F5A1ACF315C8EDEAC7F5841 /* Pods_____.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = "Pods_____.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BCF5FFA7CFD6A37A12BFF30D /* Pods-表情键盘.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-表情键盘.debug.xcconfig"; path = "Pods/Target Support Files/Pods-表情键盘/Pods-表情键盘.debug.xcconfig"; sourceTree = "<group>"; };
+		C7428772E4120BAD7B2E3212 /* Pods-表情键盘.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-表情键盘.release.xcconfig"; path = "Pods/Target Support Files/Pods-表情键盘/Pods-表情键盘.release.xcconfig"; sourceTree = "<group>"; };
+		CE0E5EB31EA0A4710020BDD1 /* EmotionIcons.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = EmotionIcons.bundle; sourceTree = "<group>"; };
+		CE0E5EB51EA0A4710020BDD1 /* STEmoticon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = STEmoticon.swift; sourceTree = "<group>"; };
+		CE0E5EB61EA0A4710020BDD1 /* STEmoticonAttachment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = STEmoticonAttachment.swift; sourceTree = "<group>"; };
+		CE0E5EB71EA0A4710020BDD1 /* STEmoticonPackage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = STEmoticonPackage.swift; sourceTree = "<group>"; };
+		CE0E5EB81EA0A4710020BDD1 /* STEmoticonManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = STEmoticonManager.swift; sourceTree = "<group>"; };
+		CE0E5EBA1EA0A4710020BDD1 /* STEmoticonCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = STEmoticonCell.swift; sourceTree = "<group>"; };
+		CE0E5EBB1EA0A4710020BDD1 /* STEmoticonCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = STEmoticonCell.xib; sourceTree = "<group>"; };
+		CE0E5EBC1EA0A4710020BDD1 /* STEmoticonInputView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = STEmoticonInputView.swift; sourceTree = "<group>"; };
+		CE0E5EBD1EA0A4710020BDD1 /* STEmoticonInputView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = STEmoticonInputView.xib; sourceTree = "<group>"; };
+		CE0E5EBE1EA0A4710020BDD1 /* STEmoticonLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = STEmoticonLayout.swift; sourceTree = "<group>"; };
+		CE0E5EBF1EA0A4710020BDD1 /* STEmoticonTipView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = STEmoticonTipView.swift; sourceTree = "<group>"; };
+		CE0E5EC01EA0A4710020BDD1 /* STEmoticonToolbar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = STEmoticonToolbar.swift; sourceTree = "<group>"; };
+		CE37856D1E94845D00C64FFD /* 表情键盘.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "表情键盘.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE3785701E94845E00C64FFD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		CE3785721E94845E00C64FFD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		CE3785751E94845E00C64FFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CE3785771E94845E00C64FFD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CE37857A1E94845E00C64FFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		CE37857C1E94845E00C64FFD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CE37856A1E94845D00C64FFD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EBA04E1C3D246B7CB45982B1 /* Pods_____.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		98A1D06740C2AEC55916D6D9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9F5A1ACF315C8EDEAC7F5841 /* Pods_____.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		AF6DF5B22411C8C60673CFA9 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				BCF5FFA7CFD6A37A12BFF30D /* Pods-表情键盘.debug.xcconfig */,
+				C7428772E4120BAD7B2E3212 /* Pods-表情键盘.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		CE0E5EB21EA0A4710020BDD1 /* Emoticon */ = {
+			isa = PBXGroup;
+			children = (
+				CE0E5EB31EA0A4710020BDD1 /* EmotionIcons.bundle */,
+				CE0E5EB41EA0A4710020BDD1 /* Model */,
+				CE0E5EB81EA0A4710020BDD1 /* STEmoticonManager.swift */,
+				CE0E5EB91EA0A4710020BDD1 /* View */,
+			);
+			path = Emoticon;
+			sourceTree = "<group>";
+		};
+		CE0E5EB41EA0A4710020BDD1 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				CE0E5EB51EA0A4710020BDD1 /* STEmoticon.swift */,
+				CE0E5EB61EA0A4710020BDD1 /* STEmoticonAttachment.swift */,
+				CE0E5EB71EA0A4710020BDD1 /* STEmoticonPackage.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		CE0E5EB91EA0A4710020BDD1 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				CE0E5EBA1EA0A4710020BDD1 /* STEmoticonCell.swift */,
+				CE0E5EBB1EA0A4710020BDD1 /* STEmoticonCell.xib */,
+				CE0E5EBC1EA0A4710020BDD1 /* STEmoticonInputView.swift */,
+				CE0E5EBD1EA0A4710020BDD1 /* STEmoticonInputView.xib */,
+				CE0E5EBE1EA0A4710020BDD1 /* STEmoticonLayout.swift */,
+				CE0E5EBF1EA0A4710020BDD1 /* STEmoticonTipView.swift */,
+				CE0E5EC01EA0A4710020BDD1 /* STEmoticonToolbar.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		CE3785641E94845D00C64FFD = {
+			isa = PBXGroup;
+			children = (
+				CE37856F1E94845E00C64FFD /* 表情键盘 */,
+				CE37856E1E94845D00C64FFD /* Products */,
+				AF6DF5B22411C8C60673CFA9 /* Pods */,
+				98A1D06740C2AEC55916D6D9 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		CE37856E1E94845D00C64FFD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CE37856D1E94845D00C64FFD /* 表情键盘.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CE37856F1E94845E00C64FFD /* 表情键盘 */ = {
+			isa = PBXGroup;
+			children = (
+				CE0E5EB21EA0A4710020BDD1 /* Emoticon */,
+				CE3785701E94845E00C64FFD /* AppDelegate.swift */,
+				CE3785721E94845E00C64FFD /* ViewController.swift */,
+				CE3785741E94845E00C64FFD /* Main.storyboard */,
+				CE3785771E94845E00C64FFD /* Assets.xcassets */,
+				CE3785791E94845E00C64FFD /* LaunchScreen.storyboard */,
+				CE37857C1E94845E00C64FFD /* Info.plist */,
+			);
+			path = "表情键盘";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CE37856C1E94845D00C64FFD /* 表情键盘 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE37857F1E94845E00C64FFD /* Build configuration list for PBXNativeTarget "表情键盘" */;
+			buildPhases = (
+				0B57CF7B7F163330CA6DEF84 /* [CP] Check Pods Manifest.lock */,
+				CE3785691E94845D00C64FFD /* Sources */,
+				CE37856A1E94845D00C64FFD /* Frameworks */,
+				CE37856B1E94845D00C64FFD /* Resources */,
+				0A81C9F118B076D957F9662A /* [CP] Embed Pods Frameworks */,
+				5CC28597387098D53D30B0D3 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "表情键盘";
+			productName = "表情键盘";
+			productReference = CE37856D1E94845D00C64FFD /* 表情键盘.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CE3785651E94845D00C64FFD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = user;
+				TargetAttributes = {
+					CE37856C1E94845D00C64FFD = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+				};
+			};
+			buildConfigurationList = CE3785681E94845D00C64FFD /* Build configuration list for PBXProject "表情键盘" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CE3785641E94845D00C64FFD;
+			productRefGroup = CE37856E1E94845D00C64FFD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CE37856C1E94845D00C64FFD /* 表情键盘 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CE37856B1E94845D00C64FFD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CE0E5EC91EA0A4710020BDD1 /* STEmoticonInputView.xib in Resources */,
+				CE37857B1E94845E00C64FFD /* LaunchScreen.storyboard in Resources */,
+				CE3785781E94845E00C64FFD /* Assets.xcassets in Resources */,
+				CE0E5EC11EA0A4710020BDD1 /* EmotionIcons.bundle in Resources */,
+				CE3785761E94845E00C64FFD /* Main.storyboard in Resources */,
+				CE0E5EC71EA0A4710020BDD1 /* STEmoticonCell.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0A81C9F118B076D957F9662A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-表情键盘/Pods-表情键盘-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		0B57CF7B7F163330CA6DEF84 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		5CC28597387098D53D30B0D3 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-表情键盘/Pods-表情键盘-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CE3785691E94845D00C64FFD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CE3785731E94845E00C64FFD /* ViewController.swift in Sources */,
+				CE3785711E94845E00C64FFD /* AppDelegate.swift in Sources */,
+				CE0E5ECC1EA0A4710020BDD1 /* STEmoticonToolbar.swift in Sources */,
+				CE0E5ECA1EA0A4710020BDD1 /* STEmoticonLayout.swift in Sources */,
+				CE0E5ECB1EA0A4710020BDD1 /* STEmoticonTipView.swift in Sources */,
+				CE0E5EC61EA0A4710020BDD1 /* STEmoticonCell.swift in Sources */,
+				CE0E5EC51EA0A4710020BDD1 /* STEmoticonManager.swift in Sources */,
+				CE0E5EC81EA0A4710020BDD1 /* STEmoticonInputView.swift in Sources */,
+				CE0E5EC21EA0A4710020BDD1 /* STEmoticon.swift in Sources */,
+				CE0E5EC31EA0A4710020BDD1 /* STEmoticonAttachment.swift in Sources */,
+				CE0E5EC41EA0A4710020BDD1 /* STEmoticonPackage.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		CE3785741E94845E00C64FFD /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CE3785751E94845E00C64FFD /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		CE3785791E94845E00C64FFD /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CE37857A1E94845E00C64FFD /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CE37857D1E94845E00C64FFD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		CE37857E1E94845E00C64FFD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CE3785801E94845E00C64FFD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BCF5FFA7CFD6A37A12BFF30D /* Pods-表情键盘.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				INFOPLIST_FILE = "表情键盘/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.wafa.----";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		CE3785811E94845E00C64FFD /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C7428772E4120BAD7B2E3212 /* Pods-表情键盘.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				INFOPLIST_FILE = "表情键盘/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.wafa.----";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CE3785681E94845D00C64FFD /* Build configuration list for PBXProject "表情键盘" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE37857D1E94845E00C64FFD /* Debug */,
+				CE37857E1E94845E00C64FFD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE37857F1E94845E00C64FFD /* Build configuration list for PBXNativeTarget "表情键盘" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE3785801E94845E00C64FFD /* Debug */,
+				CE3785811E94845E00C64FFD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CE3785651E94845D00C64FFD /* Project object */;
+}

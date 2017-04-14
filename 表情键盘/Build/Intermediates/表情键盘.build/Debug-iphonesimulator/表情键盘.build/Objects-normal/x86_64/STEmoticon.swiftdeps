@@ -1,0 +1,528 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "STEmoticon"
+provides-nominal:
+- "CX13feuGEAclnmAGl10STEmoticon"
+provides-member:
+- ["CX13feuGEAclnmAGl10STEmoticon", ""]
+provides-dynamic-lookup:
+- "png"
+- "chs"
+- "imageText"
+- "description"
+- "emoji"
+- "image"
+- "directory"
+- "times"
+- "type"
+- "code"
+depends-top-level:
+- "UIImage"
+- "String"
+- !private "StringLiteralType"
+- "UIFont"
+- !private "Dictionary"
+- "NSObject"
+- "STEmoticon"
+- !private "STEmoticonAttachment"
+- "BooleanLiteralType"
+- !private "UnicodeScalarType"
+- !private "NSBundle"
+- "NSAttributedString"
+- !private "CGRect"
+- !private "NSFontAttributeName"
+- !private "NSRange"
+- !private "Character"
+- !private "UnicodeScalar"
+- !private "NSMutableAttributedString"
+- "Int"
+- !private "UInt32"
+- !private "NSScanner"
+depends-member:
+- !private ["Ps9AnyObject", "CGRect"]
+- !private ["Ps9AnyObject", "Character"]
+- !private ["Ps9AnyObject", "NSAttributedString"]
+- !private ["Ps9AnyObject", "NSBundle"]
+- !private ["Ps9AnyObject", "NSFontAttributeName"]
+- !private ["Ps9AnyObject", "NSMutableAttributedString"]
+- !private ["Ps9AnyObject", "NSRange"]
+- !private ["Ps9AnyObject", "NSScanner"]
+- !private ["Ps9AnyObject", "STEmoticonAttachment"]
+- !private ["Ps9AnyObject", "String"]
+- !private ["Ps9AnyObject", "UIImage"]
+- !private ["Ps9AnyObject", "UnicodeScalar"]
+- !private ["Ps9AnyObject", "addAttributes"]
+- !private ["Ps9AnyObject", "bounds"]
+- ["Ps9AnyObject", "chs"]
+- ["Ps9AnyObject", "code"]
+- ["Ps9AnyObject", "description"]
+- ["Ps9AnyObject", "directory"]
+- ["Ps9AnyObject", "emoji"]
+- ["Ps9AnyObject", "image"]
+- ["Ps9AnyObject", "imageText"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "lineHeight"]
+- !private ["Ps9AnyObject", "mainBundle"]
+- !private ["Ps9AnyObject", "pathForResource"]
+- ["Ps9AnyObject", "png"]
+- !private ["Ps9AnyObject", "scanHexInt"]
+- ["Ps9AnyObject", "times"]
+- ["Ps9AnyObject", "type"]
+- !private ["Ps9AnyObject", "yy_modelDescription"]
+- ["Ps9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Sb", "deinit"]
+- !private ["Ps25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps11BooleanType", "_getBuiltinLogicValue"]
+- !private ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["VSC6CGRect", "init"]
+- !private ["Ps11CVarArgType", "CGRect"]
+- !private ["Ps11CVarArgType", "Character"]
+- !private ["Ps11CVarArgType", "NSAttributedString"]
+- !private ["Ps11CVarArgType", "NSBundle"]
+- !private ["Ps11CVarArgType", "NSFontAttributeName"]
+- !private ["Ps11CVarArgType", "NSMutableAttributedString"]
+- !private ["Ps11CVarArgType", "NSRange"]
+- !private ["Ps11CVarArgType", "NSScanner"]
+- !private ["Ps11CVarArgType", "STEmoticonAttachment"]
+- !private ["Ps11CVarArgType", "String"]
+- !private ["Ps11CVarArgType", "UIImage"]
+- !private ["Ps11CVarArgType", "UnicodeScalar"]
+- !private ["Ps11CVarArgType", "addAttributes"]
+- !private ["Ps11CVarArgType", "bounds"]
+- ["Ps11CVarArgType", "chs"]
+- ["Ps11CVarArgType", "code"]
+- ["Ps11CVarArgType", "description"]
+- ["Ps11CVarArgType", "directory"]
+- ["Ps11CVarArgType", "emoji"]
+- ["Ps11CVarArgType", "image"]
+- ["Ps11CVarArgType", "imageText"]
+- ["Ps11CVarArgType", "init"]
+- !private ["Ps11CVarArgType", "lineHeight"]
+- !private ["Ps11CVarArgType", "mainBundle"]
+- !private ["Ps11CVarArgType", "pathForResource"]
+- ["Ps11CVarArgType", "png"]
+- !private ["Ps11CVarArgType", "scanHexInt"]
+- ["Ps11CVarArgType", "times"]
+- ["Ps11CVarArgType", "type"]
+- !private ["Ps11CVarArgType", "yy_modelDescription"]
+- ["Ps11CVarArgType", ""]
+- !private ["Vs9Character", "deinit"]
+- !private ["Vs9Character", "init"]
+- !private ["Ps14CollectionType", "Key"]
+- !private ["Ps14CollectionType", "Value"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "CGRect"]
+- !private ["Ps28CustomDebugStringConvertible", "Character"]
+- !private ["Ps28CustomDebugStringConvertible", "Key"]
+- !private ["Ps28CustomDebugStringConvertible", "NSAttributedString"]
+- !private ["Ps28CustomDebugStringConvertible", "NSBundle"]
+- !private ["Ps28CustomDebugStringConvertible", "NSFontAttributeName"]
+- !private ["Ps28CustomDebugStringConvertible", "NSMutableAttributedString"]
+- !private ["Ps28CustomDebugStringConvertible", "NSRange"]
+- !private ["Ps28CustomDebugStringConvertible", "NSScanner"]
+- !private ["Ps28CustomDebugStringConvertible", "STEmoticonAttachment"]
+- ["Ps28CustomDebugStringConvertible", "Some"]
+- !private ["Ps28CustomDebugStringConvertible", "String"]
+- !private ["Ps28CustomDebugStringConvertible", "UIImage"]
+- !private ["Ps28CustomDebugStringConvertible", "UnicodeScalar"]
+- !private ["Ps28CustomDebugStringConvertible", "Value"]
+- !private ["Ps28CustomDebugStringConvertible", "addAttributes"]
+- !private ["Ps28CustomDebugStringConvertible", "bounds"]
+- ["Ps28CustomDebugStringConvertible", "chs"]
+- ["Ps28CustomDebugStringConvertible", "code"]
+- ["Ps28CustomDebugStringConvertible", "description"]
+- ["Ps28CustomDebugStringConvertible", "directory"]
+- ["Ps28CustomDebugStringConvertible", "emoji"]
+- ["Ps28CustomDebugStringConvertible", "image"]
+- ["Ps28CustomDebugStringConvertible", "imageText"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "lineHeight"]
+- !private ["Ps28CustomDebugStringConvertible", "mainBundle"]
+- !private ["Ps28CustomDebugStringConvertible", "pathForResource"]
+- ["Ps28CustomDebugStringConvertible", "png"]
+- !private ["Ps28CustomDebugStringConvertible", "scanHexInt"]
+- ["Ps28CustomDebugStringConvertible", "times"]
+- ["Ps28CustomDebugStringConvertible", "type"]
+- !private ["Ps28CustomDebugStringConvertible", "yy_modelDescription"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "CGRect"]
+- !private ["Ps23CustomStringConvertible", "Character"]
+- !private ["Ps23CustomStringConvertible", "Key"]
+- !private ["Ps23CustomStringConvertible", "NSAttributedString"]
+- !private ["Ps23CustomStringConvertible", "NSBundle"]
+- !private ["Ps23CustomStringConvertible", "NSFontAttributeName"]
+- !private ["Ps23CustomStringConvertible", "NSMutableAttributedString"]
+- !private ["Ps23CustomStringConvertible", "NSRange"]
+- !private ["Ps23CustomStringConvertible", "NSScanner"]
+- !private ["Ps23CustomStringConvertible", "STEmoticonAttachment"]
+- !private ["Ps23CustomStringConvertible", "String"]
+- !private ["Ps23CustomStringConvertible", "UIImage"]
+- !private ["Ps23CustomStringConvertible", "UnicodeScalar"]
+- !private ["Ps23CustomStringConvertible", "Value"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "addAttributes"]
+- !private ["Ps23CustomStringConvertible", "bounds"]
+- ["Ps23CustomStringConvertible", "chs"]
+- ["Ps23CustomStringConvertible", "code"]
+- ["Ps23CustomStringConvertible", "description"]
+- ["Ps23CustomStringConvertible", "directory"]
+- ["Ps23CustomStringConvertible", "emoji"]
+- ["Ps23CustomStringConvertible", "image"]
+- ["Ps23CustomStringConvertible", "imageText"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "lineHeight"]
+- !private ["Ps23CustomStringConvertible", "mainBundle"]
+- !private ["Ps23CustomStringConvertible", "pathForResource"]
+- ["Ps23CustomStringConvertible", "png"]
+- !private ["Ps23CustomStringConvertible", "scanHexInt"]
+- ["Ps23CustomStringConvertible", "times"]
+- ["Ps23CustomStringConvertible", "type"]
+- !private ["Ps23CustomStringConvertible", "yy_modelDescription"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Vs10Dictionary", "Key"]
+- !private ["Vs10Dictionary", "Value"]
+- !private ["Ps28DictionaryLiteralConvertible", "Key"]
+- !private ["Ps28DictionaryLiteralConvertible", "Value"]
+- !private ["Sd", "deinit"]
+- !private ["Ps9Equatable", "CGRect"]
+- !private ["Ps9Equatable", "Character"]
+- !private ["Ps9Equatable", "NSAttributedString"]
+- !private ["Ps9Equatable", "NSBundle"]
+- !private ["Ps9Equatable", "NSFontAttributeName"]
+- !private ["Ps9Equatable", "NSMutableAttributedString"]
+- !private ["Ps9Equatable", "NSRange"]
+- !private ["Ps9Equatable", "NSScanner"]
+- !private ["Ps9Equatable", "STEmoticonAttachment"]
+- !private ["Ps9Equatable", "String"]
+- !private ["Ps9Equatable", "UIImage"]
+- !private ["Ps9Equatable", "UnicodeScalar"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "addAttributes"]
+- !private ["Ps9Equatable", "bounds"]
+- ["Ps9Equatable", "chs"]
+- ["Ps9Equatable", "code"]
+- ["Ps9Equatable", "description"]
+- ["Ps9Equatable", "directory"]
+- ["Ps9Equatable", "emoji"]
+- ["Ps9Equatable", "image"]
+- ["Ps9Equatable", "imageText"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "lineHeight"]
+- !private ["Ps9Equatable", "mainBundle"]
+- !private ["Ps9Equatable", "pathForResource"]
+- ["Ps9Equatable", "png"]
+- !private ["Ps9Equatable", "scanHexInt"]
+- ["Ps9Equatable", "times"]
+- ["Ps9Equatable", "type"]
+- !private ["Ps9Equatable", "yy_modelDescription"]
+- ["Ps9Equatable", ""]
+- !private ["Ps41ExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["Sf", "deinit"]
+- !private ["Ps8Hashable", "CGRect"]
+- !private ["Ps8Hashable", "Character"]
+- !private ["Ps8Hashable", "NSAttributedString"]
+- !private ["Ps8Hashable", "NSBundle"]
+- !private ["Ps8Hashable", "NSFontAttributeName"]
+- !private ["Ps8Hashable", "NSMutableAttributedString"]
+- !private ["Ps8Hashable", "NSRange"]
+- !private ["Ps8Hashable", "NSScanner"]
+- !private ["Ps8Hashable", "STEmoticonAttachment"]
+- !private ["Ps8Hashable", "String"]
+- !private ["Ps8Hashable", "UIImage"]
+- !private ["Ps8Hashable", "UnicodeScalar"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "addAttributes"]
+- !private ["Ps8Hashable", "bounds"]
+- ["Ps8Hashable", "chs"]
+- ["Ps8Hashable", "code"]
+- ["Ps8Hashable", "description"]
+- ["Ps8Hashable", "directory"]
+- ["Ps8Hashable", "emoji"]
+- ["Ps8Hashable", "image"]
+- ["Ps8Hashable", "imageText"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "lineHeight"]
+- !private ["Ps8Hashable", "mainBundle"]
+- !private ["Ps8Hashable", "pathForResource"]
+- ["Ps8Hashable", "png"]
+- !private ["Ps8Hashable", "scanHexInt"]
+- ["Ps8Hashable", "times"]
+- ["Ps8Hashable", "type"]
+- !private ["Ps8Hashable", "yy_modelDescription"]
+- ["Ps8Hashable", ""]
+- !private ["Ps9Indexable", "Key"]
+- !private ["Ps9Indexable", "Value"]
+- !private ["Si", "deinit"]
+- !private ["Vs5Int16", "deinit"]
+- !private ["Vs5Int32", "deinit"]
+- !private ["Vs5Int64", "deinit"]
+- !private ["Vs4Int8", "deinit"]
+- !private ["Ps14MirrorPathType", "init"]
+- !private ["CSo18NSAttributedString", "addAttributes"]
+- !private ["CSo18NSAttributedString", "init"]
+- !private ["CSo8NSBundle", "init"]
+- !private ["CSo8NSBundle", "mainBundle"]
+- !private ["CSo8NSBundle", "pathForResource"]
+- !private ["PSo8NSCoding", "addAttributes"]
+- !private ["PSo8NSCoding", "bounds"]
+- !private ["PSo8NSCoding", "chs"]
+- !private ["PSo8NSCoding", "image"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo9NSCopying", "addAttributes"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "lineHeight"]
+- !private ["PSo9NSCopying", "scanHexInt"]
+- !private ["CSo25NSMutableAttributedString", "addAttributes"]
+- !private ["CSo25NSMutableAttributedString", "init"]
+- !private ["PSo16NSMutableCopying", "addAttributes"]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["CSo8NSObject", "CGRect"]
+- !private ["CSo8NSObject", "Character"]
+- ["CSo8NSObject", "Int"]
+- ["CSo8NSObject", "NSAttributedString"]
+- !private ["CSo8NSObject", "NSBundle"]
+- !private ["CSo8NSObject", "NSFontAttributeName"]
+- !private ["CSo8NSObject", "NSMutableAttributedString"]
+- !private ["CSo8NSObject", "NSRange"]
+- !private ["CSo8NSObject", "NSScanner"]
+- !private ["CSo8NSObject", "STEmoticonAttachment"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "UIFont"]
+- ["CSo8NSObject", "UIImage"]
+- !private ["CSo8NSObject", "UInt32"]
+- !private ["CSo8NSObject", "UnicodeScalar"]
+- !private ["CSo8NSObject", "addAttributes"]
+- !private ["CSo8NSObject", "bounds"]
+- ["CSo8NSObject", "chs"]
+- ["CSo8NSObject", "code"]
+- ["CSo8NSObject", "description"]
+- ["CSo8NSObject", "directory"]
+- ["CSo8NSObject", "emoji"]
+- ["CSo8NSObject", "image"]
+- ["CSo8NSObject", "imageText"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "lineHeight"]
+- !private ["CSo8NSObject", "mainBundle"]
+- !private ["CSo8NSObject", "pathForResource"]
+- ["CSo8NSObject", "png"]
+- !private ["CSo8NSObject", "scanHexInt"]
+- ["CSo8NSObject", "times"]
+- ["CSo8NSObject", "type"]
+- !private ["CSo8NSObject", "yy_modelDescription"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "CGRect"]
+- !private ["PSo16NSObjectProtocol", "Character"]
+- !private ["PSo16NSObjectProtocol", "NSAttributedString"]
+- !private ["PSo16NSObjectProtocol", "NSBundle"]
+- !private ["PSo16NSObjectProtocol", "NSFontAttributeName"]
+- !private ["PSo16NSObjectProtocol", "NSMutableAttributedString"]
+- !private ["PSo16NSObjectProtocol", "NSRange"]
+- !private ["PSo16NSObjectProtocol", "NSScanner"]
+- !private ["PSo16NSObjectProtocol", "STEmoticonAttachment"]
+- !private ["PSo16NSObjectProtocol", "String"]
+- !private ["PSo16NSObjectProtocol", "UIImage"]
+- !private ["PSo16NSObjectProtocol", "UnicodeScalar"]
+- !private ["PSo16NSObjectProtocol", "addAttributes"]
+- !private ["PSo16NSObjectProtocol", "bounds"]
+- ["PSo16NSObjectProtocol", "chs"]
+- ["PSo16NSObjectProtocol", "code"]
+- ["PSo16NSObjectProtocol", "description"]
+- ["PSo16NSObjectProtocol", "directory"]
+- ["PSo16NSObjectProtocol", "emoji"]
+- ["PSo16NSObjectProtocol", "image"]
+- ["PSo16NSObjectProtocol", "imageText"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "lineHeight"]
+- !private ["PSo16NSObjectProtocol", "mainBundle"]
+- !private ["PSo16NSObjectProtocol", "pathForResource"]
+- ["PSo16NSObjectProtocol", "png"]
+- !private ["PSo16NSObjectProtocol", "scanHexInt"]
+- ["PSo16NSObjectProtocol", "times"]
+- ["PSo16NSObjectProtocol", "type"]
+- !private ["PSo16NSObjectProtocol", "yy_modelDescription"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["CSo9NSScanner", "init"]
+- !private ["CSo9NSScanner", "scanHexInt"]
+- !private ["PSo14NSSecureCoding", "addAttributes"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- !private ["CSo16NSTextAttachment", "bounds"]
+- !private ["CSo16NSTextAttachment", "chs"]
+- !private ["CSo16NSTextAttachment", "image"]
+- !private ["CSo16NSTextAttachment", "init"]
+- !private ["PSo25NSTextAttachmentContainer", "bounds"]
+- !private ["PSo25NSTextAttachmentContainer", "chs"]
+- !private ["PSo25NSTextAttachmentContainer", "image"]
+- !private ["PSo25NSTextAttachmentContainer", "init"]
+- ["Ps21NilLiteralConvertible", "Some"]
+- ["Sq", "Some"]
+- !private ["Sq", "deinit"]
+- !private ["Ps16OutputStreamType", "init"]
+- !private ["CX13feuGEAclnmAGl10STEmoticon", "CGRect"]
+- !private ["CX13feuGEAclnmAGl10STEmoticon", "Character"]
+- ["CX13feuGEAclnmAGl10STEmoticon", "Int"]
+- ["CX13feuGEAclnmAGl10STEmoticon", "NSAttributedString"]
+- !private ["CX13feuGEAclnmAGl10STEmoticon", "NSBundle"]
+- !private ["CX13feuGEAclnmAGl10STEmoticon", "NSFontAttributeName"]
+- !private ["CX13feuGEAclnmAGl10STEmoticon", "NSMutableAttributedString"]
+- !private ["CX13feuGEAclnmAGl10STEmoticon", "NSRange"]
+- !private ["CX13feuGEAclnmAGl10STEmoticon", "NSScanner"]
+- !private ["CX13feuGEAclnmAGl10STEmoticon", "STEmoticonAttachment"]
+- ["CX13feuGEAclnmAGl10STEmoticon", "String"]
+- ["CX13feuGEAclnmAGl10STEmoticon", "UIFont"]
+- ["CX13feuGEAclnmAGl10STEmoticon", "UIImage"]
+- !private ["CX13feuGEAclnmAGl10STEmoticon", "UInt32"]
+- !private ["CX13feuGEAclnmAGl10STEmoticon", "UnicodeScalar"]
+- ["CX13feuGEAclnmAGl10STEmoticon", "chs"]
+- ["CX13feuGEAclnmAGl10STEmoticon", "code"]
+- ["CX13feuGEAclnmAGl10STEmoticon", "deinit"]
+- ["CX13feuGEAclnmAGl10STEmoticon", "description"]
+- ["CX13feuGEAclnmAGl10STEmoticon", "directory"]
+- ["CX13feuGEAclnmAGl10STEmoticon", "emoji"]
+- ["CX13feuGEAclnmAGl10STEmoticon", "image"]
+- ["CX13feuGEAclnmAGl10STEmoticon", "imageText"]
+- ["CX13feuGEAclnmAGl10STEmoticon", "init"]
+- ["CX13feuGEAclnmAGl10STEmoticon", "png"]
+- ["CX13feuGEAclnmAGl10STEmoticon", "times"]
+- ["CX13feuGEAclnmAGl10STEmoticon", "type"]
+- !private ["CX13feuGEAclnmAGl10STEmoticon", "yy_modelDescription"]
+- !private ["CX13feuGEAclnmAGl20STEmoticonAttachment", "bounds"]
+- !private ["CX13feuGEAclnmAGl20STEmoticonAttachment", "chs"]
+- !private ["CX13feuGEAclnmAGl20STEmoticonAttachment", "image"]
+- !private ["CX13feuGEAclnmAGl20STEmoticonAttachment", "init"]
+- !private ["Ps12SequenceType", "Key"]
+- !private ["Ps12SequenceType", "Value"]
+- !private ["Ps10Streamable", "init"]
+- !private ["SS", "init"]
+- !private ["Ps30StringInterpolationConvertible", "init"]
+- !private ["Ps24StringLiteralConvertible", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["CSo6UIFont", "lineHeight"]
+- !private ["CSo7UIImage", "init"]
+- !private ["Su", "deinit"]
+- !private ["Vs6UInt16", "deinit"]
+- !private ["Vs6UInt32", "deinit"]
+- !private ["Vs6UInt64", "deinit"]
+- !private ["Vs5UInt8", "deinit"]
+- !private ["Sc", "deinit"]
+- !private ["Sc", "init"]
+- !private ["Ps31UnicodeScalarLiteralConvertible", "init"]
+- !private ["Ps33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps49_BuiltinExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["Ps32_BuiltinStringLiteralConvertible", "init"]
+- !private ["Ps37_BuiltinUTF16StringLiteralConvertible", "init"]
+- !private ["Ps39_BuiltinUnicodeScalarLiteralConvertible", "init"]
+- !private ["Ps24_ImageLiteralConvertible", "init"]
+- !private ["VSC8_NSRange", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "Key"]
+- !private ["Ps21_ObjectiveCBridgeable", "Value"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps12_Reflectable", "Key"]
+- ["Ps12_Reflectable", "Some"]
+- !private ["Ps12_Reflectable", "Value"]
+- !private ["Ps12_Reflectable", "_getBuiltinLogicValue"]
+- !private ["Ps12_Reflectable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sb"
+- !private "Ps25BooleanLiteralConvertible"
+- !private "Ps11BooleanType"
+- !private "V12CoreGraphics7CGFloat"
+- !private "VSC6CGRect"
+- "Ps11CVarArgType"
+- !private "Vs9Character"
+- !private "Ps14CollectionType"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- !private "Vs10Dictionary"
+- !private "Ps28DictionaryLiteralConvertible"
+- !private "Sd"
+- "Ps9Equatable"
+- !private "Ps41ExtendedGraphemeClusterLiteralConvertible"
+- !private "Sf"
+- "Ps8Hashable"
+- !private "Ps9Indexable"
+- !private "Si"
+- !private "Vs5Int16"
+- !private "Vs5Int32"
+- !private "Vs5Int64"
+- !private "Vs4Int8"
+- !private "Ps14MirrorPathType"
+- !private "CSo18NSAttributedString"
+- !private "CSo8NSBundle"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "CSo25NSMutableAttributedString"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "CSo9NSScanner"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "CSo16NSTextAttachment"
+- !private "PSo25NSTextAttachmentContainer"
+- "Ps21NilLiteralConvertible"
+- "Sq"
+- !private "Ps16OutputStreamType"
+- "CX13feuGEAclnmAGl10STEmoticon"
+- !private "CX13feuGEAclnmAGl20STEmoticonAttachment"
+- !private "Ps12SequenceType"
+- !private "Ps10Streamable"
+- !private "SS"
+- !private "Ps30StringInterpolationConvertible"
+- !private "Ps24StringLiteralConvertible"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "CSo6UIFont"
+- !private "CSo7UIImage"
+- !private "Su"
+- !private "Vs6UInt16"
+- !private "Vs6UInt32"
+- !private "Vs6UInt64"
+- !private "Vs5UInt8"
+- !private "Sc"
+- !private "Ps31UnicodeScalarLiteralConvertible"
+- !private "Ps33_BuiltinBooleanLiteralConvertible"
+- !private "Ps49_BuiltinExtendedGraphemeClusterLiteralConvertible"
+- !private "Ps32_BuiltinStringLiteralConvertible"
+- !private "Ps37_BuiltinUTF16StringLiteralConvertible"
+- !private "Ps39_BuiltinUnicodeScalarLiteralConvertible"
+- !private "Ps24_ImageLiteralConvertible"
+- !private "VSC8_NSRange"
+- !private "Ps21_ObjectiveCBridgeable"
+- "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPLayerExtras.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPDecayAnimation.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPCustomAnimation.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPBasicAnimation.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPAnimator.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPPropertyAnimation.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPSpringAnimation.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPAnimationExtras.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPGeometry.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPAnimationEvent.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPAnimationTracer.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPAnimation.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPAnimatableProperty.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POPDefines.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/POP.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Headers/pop-umbrella.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/pop/pop.framework/Modules/module.modulemap"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/YYModel/YYModel.framework/Headers/YYModel.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/YYModel/YYModel.framework/Headers/YYClassInfo.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/YYModel/YYModel.framework/Headers/NSObject+YYModel.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/YYModel/YYModel.framework/Headers/YYModel-umbrella.h"
+- "/Users/user/EmoticonKeyboard/\u8868\u60C5\u952E\u76D8/Build/Products/Debug-iphonesimulator/YYModel/YYModel.framework/Modules/module.modulemap"
+interface-hash: "8f7a58d19e432c147ed546c1c3a76007"
